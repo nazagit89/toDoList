@@ -1,0 +1,5 @@
+/* Ajusta los divs de tarea */
+.item {
+    max-width: 500px;
+    margin: 0 auto;
+}
